@@ -1,0 +1,8 @@
+{
+  "planCaps": {
+    "pro": 25000000,
+    "max5": 125000000,
+    "max20": 500000000
+  },
+  "notes": "These are heuristic token-equivalents used only to create a per-session hard wall. Anthropic's subscription 5h meter exposes utilization percentage, not a fixed raw-token denominator. Update these if your observed plan behavior or future documentation gives a better denominator."
+}
