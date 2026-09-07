@@ -24,7 +24,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 Sets up the governor inside your `~\.claude` config directory, registers the governor hooks, adds a status line if you don't have one, and writes a launcher:
 
 ```powershell
-& "$HOME\.claude\claude-b.ps1"
+& "$HOME\.claude\claude.ps1"
 ```
 
 ## Usage
